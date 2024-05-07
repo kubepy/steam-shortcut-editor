@@ -1,4 +1,3 @@
-cat input.js 
 const fs = require('fs');
 const shortcut = require('./lib');
 
